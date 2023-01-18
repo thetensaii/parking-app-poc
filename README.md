@@ -2,7 +2,8 @@
 
 L'objectif de cette application est de permettre à l'utilisateur de voir les places de parking disponible autour de lui.
 
-![Page d'accueil de l'application](screenshot.png)
+
+<img src="screenshot.png" alt="Page d'accueil de l'application" height="300"/>
 
 ## Commencez
 
